@@ -1,3 +1,11 @@
+/*
+Author: Charles Cooper
+File: Grade Calculator
+Created On: September 9, 2026
+Last Modified: September 9, 2026
+Description: Determine whether number is even or odd
+*/
+
 package or;
 
 import java.util.Scanner;
